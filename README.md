@@ -4,7 +4,7 @@ DNA string is represented by a combination of four letters; **A, C, G,** and **T
 
 Examples: \
 1-DNA string: **ATGCCCTAGATGAAATAGATGGGGTAGATGCGCTAGATGCCACTAGATGCTCTAG**\
-   Genes are: **ATGCCCTAG	&nbsp;	ATGAAATAG	&nbsp;	ATGGGGTAG	&nbsp;	ATGCGCTAG**
+   Genes are: **ATGCCCTAG	&nbsp;	ATGAAATAG	&nbsp;	ATGGGGTAG	&nbsp;	ATGCGCTAG**\
    Note that **'ATGCCACTAG'** is not valied
 
 2-DNA string: **CATGAAATAATGATAATGGTAGATAGATGACCACTATGCCATAG**\
